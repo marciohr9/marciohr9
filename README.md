@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Folks, a bit about me
 
 <!--
 **marciohr9/marciohr9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi my name is Márcio Henrique, am analist mostly pacionate for backend languages and tools and that is commonly know as a smiley guy that is a fervorous enthusiastic of Ti since early days as a weirdo kid that now days is called "being a NERD". 
+
+Nowadays a deeply, but ever improving, student of DevOps Culture, trieing to be the best DevOps Analist that i can be.
+
+[ this bio its a work in progress...]
